@@ -1,4 +1,4 @@
-<h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
+<h3 align= "center"> Hello World 👋🏼 prstVanya </h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EDE5&center=true&random=false&width=435&lines=front-end+developer" alt="Typing SVG" /></a>
 ____
 <table>
